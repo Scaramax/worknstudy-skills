@@ -21,13 +21,13 @@
 const convertMDFileToHTML = (pathToMDfile) => /* ... path to HTML file */
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
-[lien github](...)
+[[lien github](...)](https://github.com/Scaramax/todolist-backend)
 
-Description :
+Description : Utilisation dans un projet perso de todo list (repo privé) avec fastify et DB mySQL
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌
 
 [lien du projet](...)
 
