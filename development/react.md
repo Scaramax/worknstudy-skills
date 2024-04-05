@@ -19,11 +19,11 @@
 
 ### Utilisation dans un projet ✔️
 
-[lien github](...)
+[[lien github](...)](https://github.com/Scaramax/beerbrowser)
 
 Description : Utilisé dans plusieurs projets personnels (repo privés)
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌
 
 [lien du projet](...)
 
@@ -35,10 +35,10 @@ Description : Utilisé quotidiennement, présent dans la totalité des produits 
 
 ## 🌐 J'utilise des ressources
 
-### Titre
+### Doc React
 
-- lien
-- description
+- [lien](https://fr.react.dev/reference/react)
+- Doc React
 
 ## 🚧 Je franchis les obstacles
 
