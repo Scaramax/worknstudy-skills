@@ -6,10 +6,10 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'intéret de TypeScript dans l'IDE ❌ / ✔️
-- les types de bases ❌ / ✔️
-- comment et pourquoi étendre une interface ❌ / ✔️
-- les classes et les decorators ❌ / ✔️
+- l'intéret de TypeScript dans l'IDE  ✔️
+- les types de bases  ✔️
+- comment et pourquoi étendre une interface  ✔️
+- les classes et les decorators  ✔️
 
 ## 💻 J'utilise
 
@@ -21,15 +21,15 @@
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel  ✔️
 
-Description :
+Description : Utilisé quotidiennement en entreprise, l'ensemble de nos projets sont en TypeScript
 
 ## 🌐 J'utilise des ressources
 
