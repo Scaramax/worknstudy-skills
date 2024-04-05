@@ -19,7 +19,7 @@
 
 ### Utilisation dans un projet ✔️
 
-[[lien github](...)](https://github.com/Scaramax/beerbrowser)
+[lien github](https://github.com/Scaramax/beerbrowser)
 
 Description : Utilisé dans plusieurs projets personnels (repo privés)
 
