@@ -42,7 +42,7 @@ function generateHashtag (str) {
 
 ### Utilisation dans un projet  ✔️
 
-[lien github](...)
+[[lien github](...)](https://github.com/Scaramax/beerbrowser)
 
 Description : Utilisé dans l'ensemble de mes projets (repo privés)
 
