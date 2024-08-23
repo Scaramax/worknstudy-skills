@@ -6,30 +6,32 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les différences avec l'architecture monolithique ❌ / ✔️
-- la communication asynchrone entre services ❌ / ✔️
-- le deploiement d'un cluster ❌ / ✔️
+- les différences avec l'architecture monolithique ✔️
+- la communication asynchrone entre services ✔️
+- le deploiement d'un cluster ✔️
 
 
 ## 💻 J'utilise
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+Cette question n'a aucun sens, il faut mettre un projet complet ?
+
+### Utilisation dans un projet ❌
 
 [lien github](...)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ✔️
 
-Description :
+Description : Multiples micro services en Node.js dans mon entreprise, à côté d'un back monolithique. Tous les nouveaux projets sont des micro services.
 
 ## 🌐 J'utilise des ressources
 
