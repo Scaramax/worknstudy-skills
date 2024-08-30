@@ -64,9 +64,9 @@ Description : Utilisé pour le projet "the good corner". Note : il faut que je r
 
 Description :
 
-### Utilisation en environement professionnel ❌
+### Utilisation en environement professionnel ✔️
 
-Description :
+Description : Utilisation dans deux projets différents au sein de l'entreprise (projets plutôt mineurs)
 
 ## 🌐 J'utilise des ressources
 
